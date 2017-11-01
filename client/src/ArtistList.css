@@ -1,0 +1,11 @@
+
+.Wrapper-btn{
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 40%; 
+    margin: 0 auto;
+}
+.Wrapper-btn:hover{
+    background-color: #00cc99;
+   
+}

@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+img{
+    width: 400px;
+    border: 1px solid #000;
+}
+.Wrapper{
+
+  
+}
+.items{
+    background-color: #ccf;
+    border-radius: 10px;
+    width: 40%;
+   margin: 0 auto;
+   
+}
